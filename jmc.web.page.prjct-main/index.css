@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+    transition: background 4s ease;
+    color:white;
+    display: flex;
+    flex-direction: column;
+  
+    justify-content: space-around;
+
+    
+}
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+footer {
+    align-items: center;
+    text-align: center;
+
+}
+hr {
+    width: 40%;
+}
+main {
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    width: 50%;
+    margin: auto;
+    margin-left: 0%;
+    padding: 20px;
+    background-color:blueviolet;
+   
+ 
+}
+form {
+width: 80%;
+}
